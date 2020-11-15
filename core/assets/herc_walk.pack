@@ -1,0 +1,53 @@
+herc_walk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hercules with sword -edit
+  rotate: false
+  xy: 1, 386
+  size: 962, 98
+  orig: 962, 98
+  offset: 0, 0
+  index: -1
+super punch
+  rotate: false
+  xy: 1, 296
+  size: 898, 88
+  orig: 898, 88
+  offset: 0, 0
+  index: -1
+walk
+  rotate: false
+  xy: 1, 193
+  size: 744, 101
+  orig: 744, 101
+  offset: 0, 0
+  index: -1
+jump
+  rotate: false
+  xy: 1, 92
+  size: 647, 99
+  orig: 647, 99
+  offset: 0, 0
+  index: -1
+punch
+  rotate: false
+  xy: 1, 1
+  size: 441, 89
+  orig: 441, 89
+  offset: 0, 0
+  index: -1
+jump-stairs
+  rotate: false
+  xy: 444, 19
+  size: 242, 71
+  orig: 242, 71
+  offset: 0, 0
+  index: -1
+die
+  rotate: false
+  xy: 747, 224
+  size: 202, 70
+  orig: 202, 70
+  offset: 0, 0
+  index: -1

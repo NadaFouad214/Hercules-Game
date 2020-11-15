@@ -1,0 +1,12 @@
+
+Super-sword.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hercules with super sword
+  rotate: false
+  xy: 1, 1
+  size: 986, 124
+  orig: 986, 124
+  offset: 0, 0
+  index: -1

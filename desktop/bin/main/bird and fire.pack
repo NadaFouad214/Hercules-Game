@@ -1,0 +1,19 @@
+
+bird and fire.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Birdr1
+  rotate: false
+  xy: 1, 183
+  size: 700, 350
+  orig: 700, 350
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1, 1
+  size: 360, 180
+  orig: 360, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+Hercules with super sword.png
+size: 152, 52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hercules with super sword
+  rotate: false
+  xy: 0, 0
+  size: 152, 52
+  orig: 152, 52
+  offset: 0, 0
+  index: -1

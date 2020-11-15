@@ -1,0 +1,12 @@
+Hercules with punch-edit.png
+size: 530, 130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hercules with punch-edit
+  rotate: false
+  xy: 0, 0
+  size: 530, 130
+  orig: 530, 130
+  offset: 0, 0
+  index: -1

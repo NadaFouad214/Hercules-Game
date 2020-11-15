@@ -1,0 +1,12 @@
+
+wooden-enemy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wooden monster
+  rotate: false
+  xy: 1, 1
+  size: 232, 71
+  orig: 232, 71
+  offset: 0, 0
+  index: -1
